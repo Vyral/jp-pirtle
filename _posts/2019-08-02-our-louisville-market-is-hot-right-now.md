@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Louisville Market Is Hot Right Now
-date: 2019-08-02 20:36:02
+date: 2019-08-02 20:36:00
 tags:
   - Market Update
   - Home Seller Tips
