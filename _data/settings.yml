@@ -51,7 +51,7 @@ second_sidebar_CTA:
     CTA_title2: Looking for a Louisville Home?
     CTA_text2: Search the entire MLS for your Louisville home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'http://www.searchalllouisvillehomes.com/'
+    CTA_url2: 'https://www.jpsold.com/'
 lender:
   show_section: false
   header_text: Preferred Lender
