@@ -25,10 +25,10 @@ I’m a full-time real estate broker and have been in the real estate business f
 
 {% include pullquote.html %}
 
-**I’m looking for a hard-working, ambitious GM to run my real estate company.** The priorities of this job include recruiting, training, and trying to make our salespeople better. Of course there will be some managing and reporting involved, but what I’m really looking for is a leader. A leader is someone who can bring people together and make the people around them better.
+**I’m looking for a hard-working, ambitious GM to run my real estate company.** The priorities of this job include recruiting, training, and trying to make our salespeople better. Of course, there will be some managing and reporting involved, but what I’m really looking for is a leader. A leader is someone who can bring people together and make the people around them better.
 
-Sales management experience is a necessity for this job. It would be great if you had you real estate license, but it’s not necessary. **In a nutshell, I need a leader who’s invested in recruiting and training our new and existing agents to help our company get better.**
+Sales management experience is a necessity for this job. It would be great if you had your real estate license, but it’s not necessary. **In a nutshell, I need a leader who’s invested in recruiting and training our new and existing agents to help our company get better.**
 
-We offer a great weekly salary, monthly bonuses based on production, and roughly a 5-day, 40-hour work week. You’ll also get vacation time, paid sick days, and the day off on your birthday, with the option of health insurance.
+We offer a great weekly salary, monthly bonuses based on production, and roughly a 5-day, 40-hour workweek. You’ll also get vacation time, paid sick days, and the day off on your birthday, with the option of health insurance.
 
 **If you or anyone you know is interested in learning more about the position or applying, send your resume to [jpirtle@jppirtle.com](mailto:jpirtle@jppirtle.com).** If you have any other questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
