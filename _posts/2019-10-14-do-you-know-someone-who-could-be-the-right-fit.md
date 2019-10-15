@@ -29,6 +29,6 @@ I’m a full-time real estate broker and have been in the real estate business f
 
 Sales management experience is a necessity for this job. It would be great if you had your real estate license, but it’s not necessary. **In a nutshell, I need a leader who’s invested in recruiting and training our new and existing agents to help our company get better.**
 
-We offer a great weekly salary, monthly bonuses based on production, and roughly a 5-day, 40-hour workweek. You’ll also get a <u><strong>$70-100k salary</strong></u>, vacation time, paid sick days, and the day off on your birthday, with the option of health insurance.
+We offer a great weekly salary, monthly bonuses based on production, and roughly a 5-day, 40-hour workweek. You’ll also get a potential salary of&nbsp;<u><strong>$70-100k</strong></u>&nbsp;after adding production bonuses, vacation time, paid sick days, and the day off on your birthday, with the option of health insurance.
 
 **If you or anyone you know is interested in learning more about the position or applying, send your resume to [jpirtle@jppirtle.com](mailto:jpirtle@jppirtle.com).** If you have any other questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
