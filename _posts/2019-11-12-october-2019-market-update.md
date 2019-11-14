@@ -1,7 +1,7 @@
 ---
 layout: post
 title: October 2019 Market Update
-date: 2019-11-12 23:06:56
+date: 2019-11-12 23:06:00
 tags:
   - Market Update
 excerpt: Here’s what the latest numbers from last October say about our market.
@@ -25,8 +25,6 @@ youtube_code: mO4hkVgaO7I
 * The absorption rate stayed the same: 2.95 months
 * The number of active listings dropped from 4,465 to 4,364
 * Interest rates dropped from 4.5% to 3.8%
-
-{% include pullquote.html %}
 
 That last statistic is especially good news for buyers considering most experts predicted that interest rates would increase. If you’re a buyer, there are plenty of great mortgage programs to take advantage of.
 
