@@ -32,7 +32,7 @@ Here are a few good reasons why our company may be a good fit for you:
 
 **3\. You’ll be able to tap into our marketing power.** We spend approximately $300,000 a year to market our listings and our company. That creates a log of name recognition, which will definitely help you get results. A lot of agents don’t have the money for their personal market, but when you’re on our team, you’ll get our listings and we’ll pay for all the marketing for those listings, too.
 
-**4\. You can say goodbye to fees.** We don’t charge any fees to our agents: No royalty fees, no monthly fees, no desk fees, no technology fees… Heck, even our yard signs are free\! All this adds up to more money in your pocket.
+**4\. You can say goodbye to fees.** Yes, you heard it right. &nbsp;Absolutely no fees. &nbsp;We don’t charge monthly fees, yearly fees, royalty fees, technology fees, or any other kind of non-transaction related fees. &nbsp;Heck, even our yard signs are free\! &nbsp;All this adds up to more money in your pocket.
 
 **5\. You’ll get great commission splits.** I’ll put our commission splits up against anybody else’s in the business. Ours will generate more money in your pocket.
 
