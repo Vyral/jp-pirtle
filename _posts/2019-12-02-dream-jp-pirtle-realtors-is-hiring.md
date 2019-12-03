@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dream JP Pirtle Realtors Is Hiring
-date: 2019-12-02 19:09:53
+date: 2019-12-02 19:09:00
 tags:
   - Real Estate
 excerpt: >-
@@ -34,8 +34,8 @@ Here are a few good reasons why our company may be a good fit for you:
 
 **4\. You can say goodbye to fees.** We don’t charge any fees to our agents: No royalty fees, no monthly fees, no desk fees, no technology fees… Heck, even our yard signs are free\! All this adds up to more money in your pocket.
 
-**5\. You’ll get great commission splits.** I’ll put our commission splits up against anybody else’s in the business. Ours will definitely generate more money in your pocket.
+**5\. You’ll get great commission splits.** I’ll put our commission splits up against anybody else’s in the business. Ours will generate more money in your pocket.
 
-We’re looking for hard-working, ambitious people to share our leads, training, and marketing budget with. Our goal is your success because if you don’t succeed, we don’t succeed.
+We’re looking for hard-working, ambitious people with which to share our leads, training, and marketing budget. Our goal is your success because if you don’t succeed, we don’t succeed.
 
 If you’re interested in taking advantage of the resources we have to offer so your career can soar, reach out to us for a confidential, no-obligation meeting. We’d love to hear from you.
