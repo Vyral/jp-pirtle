@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 1st Market Comparison of 2020
-date: 2020-01-13 20:35:26
+date: 2020-01-13 20:35:00
 tags:
   - Market Update
 excerpt: >-
@@ -50,4 +50,4 @@ Now let’s take a look at what we can expect for 2020.
 
 I believe that 2020 will be very similar to 2018 and 2019. Inventory should remain low, though a little more may come on yet this year. Rates will continue to be awesome—they’re actually still going down\!
 
-Whether you’re looking to buy or sell, or if you just have questions about real estate or the market, don’t hesitate to reach out to us. We would love to offer you our free advice. In the meantime, have a happy New Year\!
+Whether you’re looking to buy or sell, or if you just have questions about real estate or the market, don’t hesitate to reach out to us. We would love to offer you our free advice.
