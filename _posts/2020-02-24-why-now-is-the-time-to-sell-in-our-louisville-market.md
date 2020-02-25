@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Now Is the Time to Sell in Our Louisville Market
-date: 2020-02-24 23:02:02
+date: 2020-02-24 23:02:00
 tags:
   - Market Update
 excerpt: Now is the time to sell in our Louisville market. Here’s why.
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/quick-market-update-youtube.png
-youtube_code: tXvcw3XO19Y
+youtube_code: SJW1CFUODlc
 ---
 
 {% include youtube.html %}
