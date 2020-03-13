@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What the Spring Season Means for Our Market
-date: 2020-03-12 21:36:50
+date: 2020-03-12 21:36:00
 tags:
   - Market Update
 excerpt: >-
   According to the latest numbers, now’s a great time to be a buyer or seller in
   our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Pirtle/2020/What+the+Spring+Season+Means+for+Our+Market.mp4
 pullquote: Interest rates are absolutely unbelievable at the moment.
 enclosure_type: video/mp4
 enclosure_time:
