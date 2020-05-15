@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Did the Market Perform in 2020?
-date: 2020-05-15 18:38:56
+date: 2020-05-15 18:38:00
 tags:
   - Market Update
 excerpt: Here are the latest figures revealing our market’s April performance.
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/april-comparison-youtube.jpg
-youtube_code: GVgzUXzDw_4
+youtube_code: wt4-QVima9A
 ---
 
 {% include youtube.html %}
