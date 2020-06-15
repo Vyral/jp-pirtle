@@ -1,7 +1,7 @@
 ---
 layout: post
 title: May Market Comparisons
-date: 2020-06-12 18:07:41
+date: 2020-06-12 18:07:00
 tags:
   - Market Update
 excerpt: We’re comparing the stats from May 2019 to May 2020.
@@ -32,7 +32,7 @@ Today we’re sharing a real estate market comparison for May 2019 versus May 20
 
 Even though we sold fewer homes and had fewer new listings due to the pandemic in May 2020, **home values increased and interest rates are lower.**&nbsp;
 
-We want to recommend Statewide Mortgage. They’re a wonderful company, whether you’re buying a house or refinancing, they’re local and great at what they do. Give them a call if you have mortgage needs at (502) 585-5626.&nbsp;
+We want to recommend Statewide Mortgage. Whether you’re buying a house or refinancing, they're a wonderful local company who are great at what they do. Give them a call if you have mortgage needs at (502) 585-5626.&nbsp;
 
 We also want to share a Bible verse with you: “Do to others as you would have them do to you.” - Luke 6:31
 
