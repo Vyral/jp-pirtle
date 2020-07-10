@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Has Our Market Changed in the Last Year?'
-date: 2020-07-09 18:32:36
+date: 2020-07-09 18:32:00
 tags:
   - Market Update
 excerpt: Here’s how our current market compares to last year’s.
@@ -17,11 +17,11 @@ youtube_code: UIRwSBwafPg
 
 {% include youtube.html %}
 
-As we head into the dog days of summer, we’ve got a quick update for you on our June real estate market. **We’ll compare this year’s numbers to the ones we saw in June 2019 to get a better idea of where the market is heading.**
+As we head into the dog days of summer, we have a quick update for you on our June real estate market. **We’ll compare this year’s numbers to the ones we saw in June 2019 to get a better idea of where the market is heading.**
 
 In June 2019, we had 4,127 active listings. In June of this year, we had just 2,771. **Even though inventory was way down, sold homes were down only slightly, from 1,764 last year to 1,720 this year.**
 
-The average sale price in June 2019 was $250,000, and has dropped a bit to $243,000 today. The average days on market went up from 49 to 56 days. Pending listings were up slightly from 1,728 to 1,779. Our absorption rate dipped from 2.79 months to 1.89 months.
+The average sale price in June 2019 was $250,000 and has dropped a bit to $243,000 today. The average days on market went up from 49 to 56 days. Pending listings were up slightly from 1,728 to 1,779. Our absorption rate dipped from 2.79 months to 1.89 months.
 
 {% include pullquote.html %}
 
