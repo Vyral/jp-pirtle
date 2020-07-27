@@ -19,7 +19,7 @@ youtube_code: Rc-HK-DXUB0
 
 {% include youtube.html %}
 
-Here are just a few reasons why now may be a great time to sell your home.
+<p style="text-align:center">Here are just a few reasons why now may be a great time to sell your home.</p>
 
 What makes now an exceptionally good time to sell a home? For starters, **interest rates are extremely low**—the lowest they’ve been in quite some time. *The New York Times* reported on July 16 that most mortgage rates are at or below 3%.&nbsp;
 
