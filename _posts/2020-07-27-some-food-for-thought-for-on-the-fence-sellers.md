@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some Food for Thought for On-the-Fence Sellers
-date: 2020-07-27 19:14:23
+date: 2020-07-27 19:14:00
 tags:
   - Home Seller Tips
 excerpt: Here are just a few reasons why now may be a great time to sell your home.
@@ -12,14 +12,14 @@ pullquote: >-
   possible.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/good-time-to-sell-youtube.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/good-time-to-sell-youtube-1.jpg
 youtube_code: Rc-HK-DXUB0
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>Here are just a few reasons why now may be a great time to sell your home.</em></p>
+*Here are just a few reasons why now may be a great time to sell your home.*
 
 What makes now an exceptionally good time to sell a home? For starters, **interest rates are extremely low**—the lowest they’ve been in quite some time. *The New York Times* reported on July 16 that most mortgage rates are at or below 3%.&nbsp;
 
