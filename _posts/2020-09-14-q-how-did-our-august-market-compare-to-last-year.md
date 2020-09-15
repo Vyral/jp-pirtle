@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Did Our August Market Compare to Last Year?'
-date: 2020-09-14 19:13:27
+date: 2020-09-14 19:13:00
 tags:
   - Market Update
 excerpt: Here’s how the 2020 August market compared to the market in August 2019.
@@ -21,6 +21,6 @@ It goes without saying that this year has been crazy, in terms of real estate an
 
 ![](/uploads/1.PNG){: width="634" height="273"}
 
-This month’s quote of the month was spoken by Gary Vaynerchuk: “Time—the one asset that none of us will ever get more of.” If you’ve been hesitating to enter the market due to all the chaos in the world, just know that now is a great time for it, and depending on how things turn out in the future, **this may be an opportunity that we won’t see again for a while.**
+This month’s quote of the month comes from Gary Vaynerchuk: “Time—the one asset that none of us will ever get more of.” If you’ve been hesitating to enter the market due to all the chaos in the world, just know that now is a great time for it, and depending on how things turn out in the future, **this may be an opportunity that we won’t see again for a while.**
 
 If you ever have any questions about our market analysis or what our VIP Program has to offer, don’t hesitate to reach out to us. We hope to hear from you soon\!
