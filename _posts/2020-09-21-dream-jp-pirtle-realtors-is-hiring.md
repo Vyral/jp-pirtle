@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dream JP Pirtle Realtors Is Hiring
-date: 2020-09-21 16:43:17
+date: 2020-09-21 16:43:00
 tags:
   - Real Estate
 excerpt: >-
