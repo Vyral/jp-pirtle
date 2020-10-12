@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Difference Does a Year Make in Our Market?'
-date: 2020-10-12 20:56:06
+date: 2020-10-12 20:56:00
 tags:
   - Market Update
 excerpt: 'We’re still in a seller’s market, but buyers shouldn’t despair.'
@@ -11,7 +11,7 @@ pullquote: 'If it’s such a great seller’s market, is it a bad time to buy? A
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/september-comparison-yt.jpg
+youtube_alternate_image: /uploads/september-comparison-yt-1.jpg
 youtube_code: zdf3kWTRsmc
 ---
 
