@@ -19,11 +19,11 @@ youtube_code: zdf3kWTRsmc
 
 2020 has thrown us plenty of challenges, but our real estate market remains a great environment for sellers. **We’ve been in a seller’s market for the past three or four years, and this trend is only intensifying.**&nbsp;
 
-According to the latest year-over-year statistics from September, inventory has dropped from 4,000 active listings to 2,000, which is significantly lower than it’s ever been. The number of homes being listed, however, has stayed relatively the same. The median days on market for these homes has dropped from 20 days to 10. In other words, half of all homes on the market are selling within 10 days or less.&nbsp;
-
-The median sales price, meanwhile, has risen about $30,000 since September 2019—a significant jump in just one year. The absorption rate, or how long it would take for all available homes to sell if no new listings came onto the market, is 1.5 months, which is half of where it was last September (three months). This data point shows us why homes are selling quickly and for top dollar.&nbsp;
+According to the latest year-over-year statistics from September, inventory has dropped from 4,000 active listings to 2,000, which is significantly lower than it’s ever been. The number of homes being listed, however, has stayed relatively the same. The median days on market for these homes has dropped from 20 days to 10. In other words, half of all homes on the market are selling within 10 days or fewer.&nbsp;
 
 {% include pullquote.html %}
+
+The median sales price, meanwhile, has risen about $30,000 since September 2019—a significant jump in just one year. The absorption rate, or how long it would take for all available homes to sell if no new listings came onto the market, is 1.5 months, which is half of where it was last September (three months). This data point shows us why homes are selling quickly and for top dollar.&nbsp;
 
 If it’s such a great seller’s market, is it a bad time to buy? Absolutely not. **It’s a competitive environment for sure, but don’t give up on your plans if you’re a buyer.** Interest rates are in the high 2s and low 3s, and there are plenty of financing programs out there designed to help you. The key is to hire an aggressive Realtor who can help you pursue a great home right as it hits the market.&nbsp;
 
