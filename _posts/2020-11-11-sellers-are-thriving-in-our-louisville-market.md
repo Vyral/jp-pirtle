@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Sellers Are Thriving in Our Louisville Market
-date: 2020-11-11 19:36:29
+date: 2020-11-11 19:36:00
 tags:
   - Market Update
 excerpt: Here’s what the year-over-year October stats say about our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Pirtle/2020/Sellers+Are+Thriving+in+Our+Louisville+Market.mp4
 pullquote: Homes are selling incredibly quickly.
 enclosure_type: video/mp4
 enclosure_time:
