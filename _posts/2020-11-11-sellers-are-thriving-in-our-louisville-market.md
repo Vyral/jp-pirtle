@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/october-comparison-yt.jpg
-youtube_code: hTrq00qL6GY
+youtube_code: 7sOXmn3wkmQ
 ---
 
 {% include youtube.html %}
