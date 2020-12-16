@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do the Latest Stats Say About Our Market?
-date: 2020-12-15 22:11:57
+date: 2020-12-15 22:11:00
 tags:
   - Market Update
 excerpt: These are the latest numbers from our Louisville real estate market.
@@ -25,7 +25,7 @@ Can you believe we’re more than halfway through December? Now that 2020 is alm
 
 {% include pullquote.html %}
 
-We at Dream JP Pirtle Realtors want to take a moment to wish you and your family a merry Christmas. This year things will no doubt look a little different as we maintain social distancing practices, but let’s not forget what this time of year is all about. **We’re thankful for you**; as we’ve said before, if it wasn’t for you—our loyal clients who keep sending us referrals—we wouldn’t be here. You are our business, and we appreciate you very much.&nbsp;
+We at Dream J.P. Pirtle Realtors want to take a moment to wish you and your family a merry Christmas. This year things will no doubt look a little different as we maintain social distancing practices, but let’s not forget what this time of year is all about. **We’re thankful for you**; as we’ve said before, if it wasn’t for you—our loyal clients who keep sending us referrals—we wouldn’t be here. You are our business, and we appreciate you very much.&nbsp;
 
 In light of the holiday season, the quote we’ll leave you with this time comes from none other than Dr. Suess: *“Christmas will always be as long as we stand heart to heart and hand in hand.”*
 
