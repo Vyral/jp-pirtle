@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tips to Help You Control Your Business
-date: 2021-02-23 17:35:57
+date: 2021-02-23 17:35:00
 tags:
   - Real Estate
 excerpt: Here are the steps you need to take if you want to own your business.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/tips-for-success-yt.jpg
-youtube_code: z9K-fKR-kE8
+youtube_code: V5ntwU4MmPc
 ---
 
 {% include youtube.html %}
