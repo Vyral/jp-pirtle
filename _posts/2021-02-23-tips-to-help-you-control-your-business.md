@@ -8,7 +8,7 @@ excerpt: Here are the steps you need to take if you want to own your business.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/JP+Pirtle/2021/Tips+to+Help+You+Control+Your+Business.mp4
 pullquote: >-
-  You have to take responsibility for your own life if you want to own your own
+  You have to take responsibility for your  life if you want to own your own
   business.
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,16 +21,16 @@ youtube_code: V5ntwU4MmPc
 
 Welcome to my new blog series “No Excuses in Real Estate,” where my goal is to build you up so that you can find the kind of success you’ve been striving for.
 
-Many people ask why I named my company Dream Real Estate. It’s pretty simple—my dream was to own my own business, and so I made it happen. Only a very small percentage of people in the industry make, but the common denominator among those who do succeed is that they’ve started their own business.
+Many people ask why I named my company Dream Real Estate. It’s pretty simple—my dream was to own my own business, and so I made it happen. Only a very small percentage of people in the industry make it, but the common denominator among those who do succeed is that they’ve started their own business.
 
 {% include pullquote.html %}
 
 **To start your own business and take control of your own success, take the following steps:**
 
-* **Start your own LLC.** This is actually a very simple process. It only costs around $40 and takes about five minutes to complete, but it is critical to do it.
-* **Get a business banking account.** When I started my own LLC, all my commissions went into my business bank account. It makes life so much easier when you’re doing your taxes.
+* **Start your own LLC.** This is actually a very simple process. It only costs around $40 and takes about five minutes to complete, but it is critical.
+* **Get a business banking account.** When I started my LLC, all my commissions went into my business bank account. It makes life so much easier when you’re doing your taxes.
 * **Create a Facebook page.** Your broker won’t do this for you; this is something you’ll have to manage on your own.
-* **Get a website or a subdomain.** When you own your own business, you’re responsible for your own branding.
+* **Get a website or a subdomain.** When you own your own business, you’re responsible for your branding.
 * **Get CRM software.** Contact relations management software is how you’ll manage all your leads.
 
 The bottom line is this: You have to take responsibility for your own life if you want to own your own business. If you haven’t taken any of the steps I’ve mentioned above, start it now.
