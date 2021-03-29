@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Analyzing Our Market on “Listens Live!”
-date: 2021-03-29 21:59:49
+date: 2021-03-29 21:59:00
 tags:
   - Market Update
 excerpt: Here’s a clip of my latest appearance on “Listens Live!”
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Pirtle/2021/Analyzing+Our+Market+on+%E2%80%9CListens+Live!%E2%80%9D.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
