@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Louisville Market Update for April 2021
-date: 2021-04-20 18:51:57
+date: 2021-04-20 18:51:00
 tags:
   - Market Update
 excerpt: Here are the key numbers to know for the Louisville real estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Pirtle/2021/Louisville+Market+Update+for+April+2021.mp4
 pullquote: Homes are selling twice as fast as they were in March 2020.
 enclosure_type: video/mp4
 enclosure_time:
