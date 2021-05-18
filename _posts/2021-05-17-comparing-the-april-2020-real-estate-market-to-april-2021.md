@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comparing the April 2020 Real Estate Market to April 2021
-date: 2021-05-17 19:26:37
+date: 2021-05-17 19:26:00
 tags:
   - Market Update
 excerpt: Here’s a quick recap of the April real estate market.
@@ -20,7 +20,7 @@ The April 2021 numbers are in for the Louisville real estate market and today we
 
 The word for today is “double” as in, **our numbers for April 2020 were about double what we are seeing in April 2021, especially in terms of active listings, absorption rate, average days on market, and the average sales price.** This is fantastic news.
 
-In April 2020, we had a little over 3,000 active listings. This April, we had around 1,500. The absorption rate, or the amount of time it would take to sell all the available inventory, was about two months last year. This year, it’s right around one month.
+In April 2020, we had a little over 3,000 active listings. This April, we had around 1,500. The absorption rate, or the time it would take to sell all the available inventory, was about two months last year. This year, it’s right around one month.
 
 The average days on market in April 2020 was around 40. This year, that number has dropped to 20. **It’s crazy how fast these homes are selling.** The average sale price has gone up significantly over the past few years as well, but it hasn’t quite doubled. Back in 2019, the average was $236,000 and this year it’s up to $260,000. Even though the average sale price didn’t go up to $472,000, a $30,000 climb over two years is unheard of.
 
