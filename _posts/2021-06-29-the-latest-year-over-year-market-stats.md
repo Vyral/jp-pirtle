@@ -18,7 +18,7 @@ youtube_code: QLB3m7-cxlI
 
 It’s time for another quick real estate market recap\! **This time, we’ll compare the numbers from this past May to those from May 2020:**
 
-![](/uploads/stats.PNG){: width="639" height="301"}
+![](/uploads/stats.PNG){: width="100%" height="100%"}
 
 In general, it’s been a very interesting market. We know things have been scary, but it seems like people are getting more comfortable. Here at Dream JP Pirtle Realtors, we’re still doing weekly training with our agents and bringing in outside vendors to share tips and tricks for handling this market.&nbsp;
 
