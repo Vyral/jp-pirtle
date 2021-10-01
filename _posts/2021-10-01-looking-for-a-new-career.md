@@ -20,7 +20,7 @@ Do you want a new career where the amount of work you put in is equal to your re
 
 **1\. Leads.** They’re the lifeblood of any real estate business, and we have so many that we cannot handle them all. You’ll have new leads dropping into your inbox every day.
 
-**2\. Training.** When you come to our company, you’ll get one-on-one training from our entire staff, including a lead manager, listing manager, and marketing manager. You'll also have a team leader as a mentor.
+**2\. Training.** When you come to our company, you’ll get one-on-one training from our entire staff, including a lead manager, listing manager, and marketing manager. You'll also have a team leader as a mentor.&nbsp;
 
 {% include pullquote.html %}
 
