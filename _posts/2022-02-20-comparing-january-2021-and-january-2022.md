@@ -3,6 +3,7 @@ layout: post
 title: Comparing January 2021 and January 2022
 date: 2022-02-20 21:14:00
 tags:
+  - Market Update
 excerpt: ' Here’s how the numbers from January 2022 compare to January 2021.'
 enclosure:
 pullquote: 'If you do things right, you can sell a good home in just seven days. '
@@ -10,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jan-comparison-yt.jpg
-youtube_code: DctKv9WoTE4
+youtube_code: 3n4g6DPtVe8
 ---
 {% include youtube.html %}
 
