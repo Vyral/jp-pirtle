@@ -14,9 +14,9 @@ youtube_code: 9NfOivckM3s
 ---
 {% include youtube.html %}
 
-Spring is almost here and it’s an exciting time for everyone right now. Today I’ll give you a market update and compare February 2022 to February 2021.
+March Madness has started, and it's warming up outside. Spring is almost here, and it’s an exciting time for everyone right now. Today I’ll give you a market update and compare February 2022 to February 2021.
 
-**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
+**Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
 0:00 — Introducing today’s topic
 
