@@ -16,8 +16,6 @@ youtube_code: c-fbz-dowuo
 
 {% include pullquote.html %}
 
-{% include excerpt.html %}
-
 It’s time for our March 2022 market recap\! We’ll be comparing the numbers from last month to the data from last year. Let's dive right in and see what’s changed.
 
 The first statistic we talk about is the absorption rate. It shows us how long it would take to run out of homes to sell.Last month, we had 0.81 months of inventory. That only dropped by about 12% from last year. It’s still a competitive market, and the inventory is staying very low.
@@ -25,6 +23,8 @@ The first statistic we talk about is the absorption rate. It shows us how long i
 **The average list price was $421,000 last month, compared to $375,000 last year.** Home values have risen about 12% since last year, which is substantial.&nbsp;
 
 The average days on market was 33 days last month. A year ago, it was 39 days. It’s still pretty much the same, but homes are selling fast.&nbsp;
+
+{% include excerpt.html %}
 
 The number of listings sold in March was 1,511. Last year, we sold 1,565. We’re still very close to the numbers from last year, but active and new listings are down a little bit.
 
