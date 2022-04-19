@@ -16,7 +16,7 @@ youtube_code: c-fbz-dowuo
 
 {% include excerpt.html %}
 
-It’s time for our March 2022 market recap\! We’ll be comparing the numbers from last month to the data from last year.
+It’s time for our March 2022 market recap\! We’ll be comparing the numbers from last month to the data from last year.&nbsp;
 
 The absorption rate shows us how long it would take to run out of homes to sell. Last month, we had a 0.81 absorption rate, or 0.81 months' worth of inventory on the market. That only dropped by about 12% from last year. It’s still a competitive market, and the inventory is staying very low.
 
