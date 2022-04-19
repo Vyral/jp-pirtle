@@ -14,7 +14,7 @@ youtube_code: c-fbz-dowuo
 ---
 {% include youtube.html %}
 
-{% include pullquote.html %}
+{% include excerpt.html %}
 
 It’s time for our March 2022 market recap\! We’ll be comparing the numbers from last month to the data from last year. Let's dive right in and see what’s changed.
 
@@ -24,7 +24,7 @@ The first statistic we talk about is the absorption rate. It shows us how long i
 
 The average days on market was 33 days last month. A year ago, it was 39 days. It’s still pretty much the same, but homes are selling fast.&nbsp;
 
-{% include excerpt.html %}
+{% include pullquote.html %}
 
 The number of listings sold in March was 1,511. Last year, we sold 1,565. We’re still very close to the numbers from last year, but active and new listings are down a little bit.
 
