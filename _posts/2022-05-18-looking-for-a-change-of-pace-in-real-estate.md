@@ -14,4 +14,4 @@ youtube_code: '-QJW1JXhNO0'
 ---
 {% include youtube.html %}
 
-I need your help. Thanks to all of you, the team is growing and we need more agents. In order to get more agents, we need a full-time recruiter to recruit and train agents. I’d love to find a veteran agent with lots of experience and knowledge—one who’s looking for a more stable income, a more stable schedule, and who wants to share their knowledge and experience with our agents. To learn more about this opportunity, watch this short video.
+I need your help. Thanks to all of you, my team is growing, and we need more agents. To get more agents, we need a full-time recruiter to recruit and train agents. I’d love to find a veteran agent with lots of experience and knowledge—one who’s looking for a more stable income, a more consistent schedule, and who wants to share their knowledge and experience with our agents. To learn more about this opportunity, watch this short video.
