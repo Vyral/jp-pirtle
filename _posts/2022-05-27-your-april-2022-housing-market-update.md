@@ -30,4 +30,4 @@ Like the absorption rate, the average days on market has stayed fairly consisten
 
 As a final note, I’d like to leave you with a quote from author and speaker Zig Ziglar that I enjoy: *“People often say that motivation doesn’t last. Well, neither does bathing—that’s why we recommend it daily.”*
 
-If you have any questions about what’s going on in today’s real estate market or what these conditions mean for your prospects, don’t hesitate to reach out to me. I’d love to speak with you.
+If you have any questions about what’s going on in today’s real estate market or what these conditions mean for your prospects, don’t hesitate to call or email me. I’d love to speak with you.
