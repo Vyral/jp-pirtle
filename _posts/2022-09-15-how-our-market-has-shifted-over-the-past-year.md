@@ -4,7 +4,8 @@ title: How Our Market Has Shifted Over the Past Year
 date: 2022-09-15 05:00:00
 tags:
 excerpt: Comparing August 2021 to August 2022 to see how things have shifted.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Pirtle/2022/JP+Pirtle_August+Comparison.mp4
 pullquote: Things are taking a little bit longer to sell, but still sell super quickly.
 enclosure_type: video/mp4
 enclosure_time:
