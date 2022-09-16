@@ -16,7 +16,7 @@ youtube_code: HKW2si191Eo
 
 {% include excerpt.html %}
 
-Today I’m here to briefly recap what happened in our area’s real estate market in August 2022 and compare it to August 2021.&nbsp;
+Today I’m here to briefly recap what happened in our real estate market in August 2022 and compare it to August 2021.&nbsp;
 
 Let's start with the absorption rate, which is the amount of time it would take a sale to sell a house that's currently listed. In August 2022, the absorption rate was 1.57 months. The absorption rate for August 2021 was 1.34 months. That’s an increase of 17%. This means that things are taking only a little bit longer to sell, but still sell super quickly.
 
@@ -24,6 +24,6 @@ Let's start with the absorption rate, which is the amount of time it would take 
 
 The average listing price for 2021 was $374,985. This year it was $395,777. That’s an increase of 5.5%. The median listing price last year was $250,000. This year it was $289,900. That’s almost a 16% increase, which is good for sellers.
 
-I’m sure you’ve heard that **interest rates are continuing to rise, but you shouldn’t be very worried about them because they are still low compared to the historical average.** If you want to find out what great interest rate you can get, call our friends at Statewide Mortgage. They're locally owned and run. It makes a big difference to have them right here in our backyard to give you great information and a top notch experience from beginning to end.
+I’m sure you’ve heard that **interest rates are continuing to rise, but you shouldn’t be very worried about them because they are still low compared to the historical average.** If you want to find out what type of great interest rate you can get, call our friends at Statewide Mortgage. They're locally owned and run. It makes a big difference to have them right here in our backyard to give you great information and a top notch experience from beginning to end.
 
 If you have any questions, don’t hesitate to reach out to me by phone or email. I’m always happy to help, and I look forward to hearing from you.
