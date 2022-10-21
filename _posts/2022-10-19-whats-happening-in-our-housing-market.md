@@ -4,7 +4,8 @@ title: What’s Happening in Our Housing Market?
 date: 2022-10-19 05:00:00
 tags:
 excerpt: 'Here’s what you need to know about our local housing market. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Pirtle/2022/JP+Pirtle_September+Comparison.mp4
 pullquote: 'A 6% interest rate is typical right now. '
 enclosure_type: video/mp4
 enclosure_time:
