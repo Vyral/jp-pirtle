@@ -4,7 +4,8 @@ title: Happy Holidays!
 date: 2022-12-19 05:00:00
 tags:
 excerpt: From our team to your family, we want to wish you a happy holiday season.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Pirtle/2022/JP+Pirtle_Christmas+2022.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
