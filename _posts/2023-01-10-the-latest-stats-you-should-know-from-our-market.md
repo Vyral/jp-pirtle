@@ -16,7 +16,7 @@ youtube_code: LF5ntBUaS6k
 
 {% include excerpt.html %}
 
-Happy New Year\! I hope you had an amazing holiday season. Today I’d just like to compare the latest housing market statistics from December 2022 to where our market was in December 2021. This should give us a good idea of where our market is heading as we get further into 2023.&nbsp;
+Happy New Year\! I hope you had an amazing holiday season. Today I’m looking back at the latest stats from our housing market and comparing it with where things were this time last year. This should give us a good idea of where our market is heading as we get further into 2023.&nbsp;
 
 First, **the average sales prices continued to climb.** In December 2022, it was $292,000, while in December 2021, it was $283,000. That's an increase of almost 3%. Meanwhile, the average days on the market has changed a ton. In December 2022, the average home spent 42 days on the market, while last year that number was only 24.
 
