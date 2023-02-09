@@ -9,7 +9,7 @@ pullquote: Don't waste time and make your move now.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/january-comparison-yt.jpg
 youtube_code: prNtI9ii7vA
 ---
 {% include youtube.html %}
