@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/vip-buyer-yt.jpg
-youtube_code: 810E2J-pALI
+youtube_code: yyVV7q-GWXs
 ---
 {% include youtube.html %}
 
