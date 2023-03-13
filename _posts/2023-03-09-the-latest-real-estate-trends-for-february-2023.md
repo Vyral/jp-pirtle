@@ -9,8 +9,8 @@ pullquote: 'Lack of inventory is still driving the market. '
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code: WzugrbPqElo
+youtube_alternate_image: /uploads/2.jpeg
+youtube_code: ldhU1XPcLf8
 ---
 {% include youtube.html %}
 
