@@ -4,7 +4,9 @@ title: The Latest Real Estate Trends for February 2023
 date: 2023-03-09 05:00:00
 tags:
   - Market Update
-excerpt:
+excerpt: >-
+  I’m sharing some emerging trends and comparing the market stats of February
+  2023 to February 2022. 
 enclosure:
 pullquote: 'Lack of inventory is still driving the market. '
 enclosure_type: video/mp4
