@@ -3,7 +3,7 @@ layout: post
 title: Get a Guaranteed Offer on Your Home
 date: 2023-03-28 05:00:00
 tags:
-excerpt:
+excerpt: At Dream JP Pirtle Realtors, we can sell your home without listing it.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
