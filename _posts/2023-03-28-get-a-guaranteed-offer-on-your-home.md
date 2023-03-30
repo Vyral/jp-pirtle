@@ -14,4 +14,4 @@ youtube_code: oMnkc97RqpY
 ---
 {% include youtube.html %}
 
-{% include pullquote.html %}
+Are you considering selling your property but worried about failing to find your next home due to the low inventory? There aren’t many homes on the market, and this can be discouraging for buyers. Fortunately, our team can sell your home without listing it. This way, you’ll have all the time you need to find your next one. To hear more about this amazing opportunity, watch this short video.
