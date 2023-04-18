@@ -20,7 +20,7 @@ youtube_code: fm_lJjjhF-Y
 
 If you’re thinking about making a real estate move anytime soon, you need to be aware of how the market has changed and where it’s headed. To help you determine this, we are here today with a market update. We will be comparing important statistics from March 2022 to March 2023, the most recent data.&nbsp;
 
-First, let’s start with the absorption rates. In 2022, it was at 0.79 months, but in 2023 it got up to 1.33 months. Therefore, the number almost doubled. A similar phenomenon is displayed in the number of homes sold, which was 1,301 in March 2022 and 1,561 in March 2023.
+First, let’s start with the absorption rates. Absorption rate is a term used in real estate to describe how long it would take to sell off all of the current inventory. In 2022, it was at 0.79 months, but in 2023 it got up to 1.33 months. Therefore, the number almost doubled. A similar phenomenon is displayed in the number of homes sold, which was 1,301 in March 2022 and 1,561 in March 2023.
 
 {% include pullquote.html %}
 
