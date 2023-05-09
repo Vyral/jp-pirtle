@@ -8,9 +8,9 @@ enclosure:
 pullquote: It is crucial to stay on top of the current market trends and statistics.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/2-79.jpg
-youtube_code: Ajb-Qk6ca6c
+youtube_code: Svkhrx-T8sc
 ---
 {% include youtube.html %}
 
