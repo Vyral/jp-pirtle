@@ -9,7 +9,7 @@ pullquote: It is crucial to stay on top of the current market trends and statist
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/screenshot-2023-05-09-at-1-25-28-am.png
+youtube_alternate_image: /uploads/jp-pirtle-ss-template-2.jpg
 youtube_code: Ajb-Qk6ca6c
 ---
 {% include youtube.html %}
