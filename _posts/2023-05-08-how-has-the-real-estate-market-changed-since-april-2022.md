@@ -28,4 +28,4 @@ You should also be aware of the absorption rate, which refers to how many homes 
 
 Lastly, let's examine the average days on the market. In April 2022, homes stayed on the market for an average of 25 days, while in April 2023 it was 42 days. **This means homes are on the market an average of 17 days longer, which is a substantial increase.&nbsp;**
 
-The real estate market is continually changing, and it is important to stay informed to make the right decisions. Whether you are buying or selling a home, the current market trends will always play a significant role in the process. Reach out to us by phone call or email, and we can help you find your dream home today.<br>
+The real estate market is continually changing, and it is important to stay informed to make the right decisions. Whether you are buying or selling a home, the current market trends will always play a significant role in the process. Reach out to us by phone call or email, and we can help you find your dream home today.
