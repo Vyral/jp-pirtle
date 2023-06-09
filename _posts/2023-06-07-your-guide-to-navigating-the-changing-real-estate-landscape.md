@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your Guide to Navigating the Changing Real Estate Landscape
+title: Your Guide To Navigating the Changing Real Estate Landscape
 date: 2023-06-07 05:00:00
 tags:
 excerpt: An overview of the changes we’re seeing in our real estate market.
