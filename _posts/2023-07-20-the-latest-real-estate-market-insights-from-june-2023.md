@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/2-2023-07-20t235244-912.jpg
-youtube_code: PoL8RaArrwk
+youtube_code: FyakK6t0qvc
 ---
 {% include youtube.html %}
 
