@@ -8,7 +8,7 @@ pullquote: While the numbers are up, it's still a great time to sell your house.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/2-2023-09-19t151234-346.jpg
 youtube_code: eaX-c6Mw3wI
 ---
 {% include youtube.html %}
