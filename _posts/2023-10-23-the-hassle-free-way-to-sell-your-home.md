@@ -17,7 +17,7 @@ youtube_code: h1eoLGdMupg
 
 {% include excerpt.html %}
 
-Are you tired of the traditional home-selling process with its showings, haggling, and inspections? Today, we have an inspiring success story to share. We recently acquired three fantastic properties close to the Smyrna Road church, and here's how it all unfolded.
+Are you tired of the traditional home-selling process with its showings, haggling, and inspections? Today, we have an inspiring success story to share. We recently acquired three fantastic properties close to the Smyrna Road and Beulah Church Road, and here's how it all unfolded.
 
 The owners of these properties reached out to us with a simple request – **they wanted a guaranteed offer on their homes.** We met with them, discussed their options, and presented two choices: listing their homes on the market or accepting an as-is cash offer. With plans to move out of town and a desire for a quick and stress-free sale, they chose the latter.
 
