@@ -17,7 +17,7 @@ youtube_code: RF8UF8z-elE
 
 {% include excerpt.html %}
 
-What happened to the market from the period October 20, 2022, to October 2023? Today I'll explore the trends and shifts that have defined the market over the past year, offering insights into what you can expect and how it may impact your real estate endeavors.&nbsp;
+What happened to the market from October 20, 2022, to October 2023? Today, I'll explore the trends and shifts that have defined the market over the past year, offering insights into what you can expect and how it may impact your real estate endeavors.&nbsp;
 
 Despite the arrival of colder weather and shorter days, the real estate market continues to be active. The average time a property spends on the market has increased slightly compared to 2022, with homes now taking about 36 days to sell. This indicates a minor delay in the sales process, but properties that are appropriately priced and in good condition are still selling within a reasonable time frame.
 
