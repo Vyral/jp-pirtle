@@ -8,8 +8,8 @@ pullquote: Whether you're considering buying or selling, now is an opportune tim
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/2-4.jpg
-youtube_code: z6b21_gEQIY
+youtube_alternate_image: /uploads/2-8.jpg
+youtube_code: LkQ-xZJu5oY
 ---
 {% include youtube.html %}
 
