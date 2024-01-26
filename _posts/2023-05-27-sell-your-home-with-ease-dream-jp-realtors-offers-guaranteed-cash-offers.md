@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Sell Your Home with Ease: Dream JP Realtors Offers Guaranteed Cash Offers'
-date: 2023-05-27 05:00:00
-tags:
+date: 2024-01-26 05:00:00
 excerpt: Sell your house hassle-free with Dream JP Realtors
 enclosure:
 pullquote:
