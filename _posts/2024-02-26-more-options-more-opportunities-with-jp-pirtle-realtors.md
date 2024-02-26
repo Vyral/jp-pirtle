@@ -15,7 +15,7 @@ youtube_code: vPsEgx_xALQ
 
 {% include excerpt.html %}
 
-Today, let’s learn more about JP Pirtle and the company through an interview on Wave Lessons Live. The interview will give you a brief background on JP Pirtle Realtors and what separates it from the rest. Together with that, you’ll get an idea of what the company offers their sellers and the benefits that come with it.
+Today, let’s learn more about JP Pirtle and the company through an interview on Wave Listens Live. The interview will give you a brief background on JP Pirtle Realtors and what separates it from the rest. Together with that, you’ll get an idea of what the company offers their sellers and the benefits that come with it.
 
 **Feel free to watch the full interview or use the timestamps below to get to a specific topic of interest:**&nbsp;
 
