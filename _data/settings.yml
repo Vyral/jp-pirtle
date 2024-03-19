@@ -9,12 +9,12 @@ description: >-
   Realtors, your professional Louisville Real Estate Agents.
 show_custom_links: false
 custom_links:
-  - title:
+  - title: 
     url:
-show_custom_links_new_tab: false
+show_custom_links_new_tab: true
 custom_links_new_tab:
-  - title:
-    url:
+  - title: Guaranteed Offer
+    url: https://pirtle-guaranteedoffer.paperform.co/
 client:
   name: JP Pirtle
   title:
