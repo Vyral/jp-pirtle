@@ -19,8 +19,8 @@
 			{{site.data.settings.CTAs.first_CTA_text}}
 		</a>
 		{% else %}
-		<a class="ctalink" href="https://pirtle-guaranteedoffer.paperform.co/" target="_blank">
-			Guaranteed Offer
+		<a class="ctalink" href="{{cta.CTA_url}}" target="_blank">
+			{{cta.CTA_link_text | replace: '-- MARKET --', site.data.settings.client.market}}
 		</a>
 		{% endif %}
 	</div>
@@ -28,8 +28,8 @@
 
 {% endfor %}
 	<div class="ctacontainer">
-	  <a class="ctalink" href="{{cta.CTA_url}}" target="_blank">
-			{{cta.CTA_link_text | replace: '-- MARKET --', site.data.settings.client.market}}
+	  <a class="ctalink" href="https://pirtle-guaranteedoffer.paperform.co/" target="_blank">
+			Guaranteed Offer
 		</a>
 	</div>
 {% for cta in site.data.settings.second_sidebar_CTA %}
