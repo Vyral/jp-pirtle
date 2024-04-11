@@ -8,8 +8,8 @@ pullquote: Homes are flying off the market at top dollar.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/2-9.jpg
-youtube_code: K7i_hsHChwE
+youtube_alternate_image: /uploads/2-6-1.jpg
+youtube_code: pQKXswowCLI
 ---
 {% include youtube.html %}
 
