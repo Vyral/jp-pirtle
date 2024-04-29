@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  What’s The Best Way To Buy a Home Before Selling? 4.29 - COPY 2024-04-29 04:15
-  AM
+title: How Should You Respond to a Low Offer on Your Home?
 date: 2024-04-28 04:00:00
 excerpt: A few steps you can take to negotiate a great deal with lowball offers.
 enclosure:
