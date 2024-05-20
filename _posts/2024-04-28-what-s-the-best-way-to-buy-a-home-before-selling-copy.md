@@ -13,7 +13,7 @@ youtube_code: iKu4C4fKM-A
 ---
 {% include youtube.html %}
 
-Have you been curious about the state of the housing market in April 2024 compared to last year’s? Whether you’re planning to buy or sell, here are the details that you’d need to know on the comparisons of the interest rates, housing prices, listings, and more. These insights will help you understand current housing status without being confused at all!
+Have you been curious about the state of the housing market in April 2024 compared to last year’s? Whether you’re planning to buy or sell, here are the details that you’d need to know on the comparisons of the interest rates, housing prices, listings, and more. These insights will help you understand the current housing status without being confused at all!
 
 **To get started on getting into the details of this recap, feel free to watch the video using these timestamps that will direct you to each point in the video.**
 
