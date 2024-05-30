@@ -9,7 +9,7 @@ description: >-
   Realtors, your professional Louisville Real Estate Agents.
 show_custom_links: false
 custom_links:
-  - title: 
+  - title:
     url:
 show_custom_links_new_tab: true
 custom_links_new_tab:
@@ -32,12 +32,12 @@ client:
   phone2:
   phone2_type:
   email: jpirtle@jppirtle.com
-  url: 'http://www.jpsold.com'
+  url: http://www.jpsold.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://www.jpsold.com/sellers/free-market-analysis/'
+  first_CTA_URL: https://www.jpsold.com/sellers/free-market-analysis/
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://www.jpsold.com/'
+  second_CTA_URL: https://www.jpsold.com/
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What’s Your Louisville Home Worth?
@@ -45,13 +45,13 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: 'https://www.jpsold.com/sellers/free-market-analysis/'
+    CTA_url: https://www.jpsold.com/sellers/free-market-analysis/
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: Looking for a Louisville Home?
     CTA_text2: Search the entire MLS for your Louisville home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'https://www.jpsold.com/'
+    CTA_url2: https://www.jpsold.com/
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -66,16 +66,16 @@ lender:
   url:
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/Dream-JP-Pirtle-Realtors-123721567682533/home'
+  facebook_url: https://www.facebook.com/Dream-JP-Pirtle-Realtors-123721567682533/home
   linkedin_url:
-  youtube_url: 'https://www.youtube.com/channel/UCcXi4-sKwIlBCkQ1HgtvSFA'
-  twitter_url: 'https://twitter.com/JPPirtle1'
+  youtube_url: https://www.youtube.com/channel/UCcXi4-sKwIlBCkQ1HgtvSFA
+  twitter_url: https://twitter.com/JPPirtle1
   instagram_url:
   pinterest_url:
-  zillow_url: 'http://www.zillow.com/profile/userJP/'
+  zillow_url: http://www.zillow.com/profile/userJP/
   trulia_url: >-
     http://www.trulia.com/profile/jp-pirtle-agent-louisville-ky-zgnm41ln/overview
-  yelp_url: 'http://www.yelp.com/biz/j-p-pirtle-realtors-louisville'
+  yelp_url: http://www.yelp.com/biz/j-p-pirtle-realtors-louisville
   podcast_url:
 podcast:
   title: Louisville Real Estate Podcast with JP Pirtle
@@ -99,7 +99,7 @@ podcast:
   author: JP Pirtle
 images:
   client_headshot_path: /img/headshot.png
-  hero_logo_path: /img/logo.png
+  hero_logo_path: /uploads/jppirtletv-logo-updated.webp
   logo_width_number: 40
   hero_text: Louisville Real Estate Video Blog
   hero_background_hex: '#999999'
@@ -123,8 +123,8 @@ buttons:
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: 'rgba(0, 0, 0, 0)'
+  button_background_color: rgba(0, 0, 0, 0)
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
