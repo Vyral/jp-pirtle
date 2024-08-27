@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What are Your Home Selling Options?
+title: What Are Your Home Selling Options?
 date: 2024-08-27 05:00:00
 excerpt: Going over the key reasons it’s worth it to fix your home before selling.
 enclosure:
