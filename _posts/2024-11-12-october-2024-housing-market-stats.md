@@ -6,7 +6,7 @@ tags:
   - Market Update
 excerpt: >-
   Here are the October 2024 Real Estate Stats for Louisville and surrounding
-  counties:
+  counties.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
