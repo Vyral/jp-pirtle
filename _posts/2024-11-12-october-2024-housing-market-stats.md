@@ -13,13 +13,11 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/2-1.png
-youtube_code: https://youtu.be/G67q5p2izCM
+youtube_code: G67q5p2izCM
 ---
 {% include youtube.html %}
 
-{% include pullquote.html %}
-
-Here's your October 2024 Real Estate Update for Louisville and surrounding counties:
+Here’s your October 2024 Real Estate Update for Louisville and surrounding counties:
 
 **<u>Number of Sold Listings</u>**
 
@@ -27,7 +25,7 @@ Here's your October 2024 Real Estate Update for Louisville and surrounding count
 
 2023: 1,218
 
-That's an increase of 7.1% from last year.
+That’s an increase of 7.1% from last year.
 
 **<u>Active Listings</u>**
 
@@ -35,7 +33,7 @@ That's an increase of 7.1% from last year.
 
 2023: 2,493
 
-That's an increase of 21.5% from last year.
+That’s an increase of 21.5% from last year.
 
 **<u>Average Sales Price</u>**
 
@@ -43,7 +41,7 @@ That's an increase of 21.5% from last year.
 
 2023: $304,279
 
-That's an increase of 10.82% from last year.
+That’s an increase of 10.82% from last year.
 
 **<u>Average Days On Market</u>**
 
@@ -61,6 +59,6 @@ This mean homes are taking on average 16.6% longer to sell.
 
 This is an increase of 22.77%, which is another indicator that homes are sitting on the market longer before they sell.
 
-We hope you find these updates helpful. If you have any questions about these numbers or would like to schedule time to speak with us, feel free to reach out at 502-458-2722 anytime. We'd love to hear from you!
+We hope you find these updates helpful. If you have any questions about these numbers or would like to schedule time to speak with us, feel free to reach out at 502-458-2722 anytime. We’d love to hear from you!
 
 &nbsp;
