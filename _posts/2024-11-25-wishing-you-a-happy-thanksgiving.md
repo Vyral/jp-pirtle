@@ -12,8 +12,10 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/screenshot-2024-11-25-at-12-17-36-pm.png
-youtube_code:
+youtube_code: vq8OEmQMsIo
 ---
+{% include youtube.html %}
+
 {% include excerpt.html %}
 
 The 2024 holiday season has officially begun! We hope you are as excited as we are.
