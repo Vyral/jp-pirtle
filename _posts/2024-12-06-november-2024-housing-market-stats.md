@@ -17,8 +17,6 @@ youtube_code: X8tsBQBWpFs
 ---
 {% include youtube.html %}
 
-{% include pullquote.html %}
-
 Here’s your November 2024 Real Estate Update for Louisville and surrounding counties:
 
 **<u>Number of Sold Listings</u>**
