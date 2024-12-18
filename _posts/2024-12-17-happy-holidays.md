@@ -13,6 +13,8 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/jp-pirtle-at-11-11-1.jpg
 youtube_code:
 ---
+{% include excerpt.html %}
+
 The holiday season has officially arrived. We hope you enjoy this wonderful time of year and make some fantastic memories.
 
 **We wanted to take a moment to thank you for your continued support**. We love helping people make their real estate dreams come true, so thank you for working with us and supporting our business.
