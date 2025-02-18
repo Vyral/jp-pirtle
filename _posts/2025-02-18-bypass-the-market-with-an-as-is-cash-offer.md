@@ -19,6 +19,6 @@ youtube_code: 6S4b_wQnKC4
 
 {% include pullquote.html %}
 
-Sellers: do you want to bypass the market and get an as is cash offer on your home today? Some of the benefits are no showings, no inspections, no repairs, no lenders, and no commissions. You can also close when you want and leave anything behind that you don't want to take with you. To learn more, check out our latest video.
+Sellers: do you want to bypass the market and get an as is cash offer on your home today? Some of the benefits are no showings, no inspections, no repairs, no lenders, and no commissions. You can also close on your preferred date and leave anything behind that you don't want to take with you. To learn more, check out our latest video.
 
 [**RECEIVE AS IS CASH OFFER ON YOUR HOME**](https://pirtle-cashoffer.paperform.co/){: target="_blank" rel="noopener"}
